@@ -27,7 +27,7 @@ I answered 14 business questions using Excel:
 - **KPI indicators** for top-rated and most-reviewed products  
 - **Conditional formatting** to highlight standout products  
 - **Scatter plot** to show relationship between discount % and product ratings  
-![Dashboard Preview](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Tools & Techniques Used
 - Microsoft Excel  
