@@ -54,3 +54,9 @@ This project demonstrates my ability to:
 - Extract insights from discount, rating, and review metrics
 - Communicate data-driven findings clearly and interactively
 
+## Author
+Babalola Kehinde Vincent
+Email: kenny19059@gmail.com
+LinkedIn: linkedin.com/in/kehinde-babalola25
+
+
