@@ -43,6 +43,8 @@ I answered 14 business questions using Excel:
   - Pivot tables for each question
   - Final interactive dashboard
 
+![Unique Product](Unique Product.png)
+
 ## Key Takeaways
 This project demonstrates my ability to:
 - Analyze real-world e-commerce data
